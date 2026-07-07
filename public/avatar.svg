@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Profile avatar placeholder</title>
+  <desc id="desc">A restrained dark technology style avatar placeholder for an IT internship portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#16222b"/>
+      <stop offset="0.52" stop-color="#071015"/>
+      <stop offset="1" stop-color="#203029"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#63d7c7"/>
+      <stop offset="1" stop-color="#d9ad67"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="720" fill="url(#bg)"/>
+  <g opacity="0.16" stroke="#d8e7ef" stroke-width="1">
+    <path d="M70 150h580M70 250h580M70 350h580M70 450h580M70 550h580"/>
+    <path d="M150 70v580M250 70v580M350 70v580M450 70v580M550 70v580"/>
+  </g>
+  <circle cx="360" cy="292" r="112" fill="#101a21" stroke="url(#line)" stroke-width="5"/>
+  <path d="M188 608c24-118 90-178 172-178s148 60 172 178" fill="#101a21" stroke="url(#line)" stroke-width="5"/>
+  <path d="M204 132h132M384 132h132M206 588h92M426 588h92" stroke="#63d7c7" stroke-width="6" stroke-linecap="square"/>
+  <text x="360" y="665" text-anchor="middle" fill="#c8d3df" font-family="Arial, sans-serif" font-size="26" letter-spacing="4">YOUR PHOTO</text>
+</svg>
